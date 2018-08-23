@@ -1,15 +1,15 @@
 <table >
 <tr >
- <td><img src="https://github.com/gtdca98/Documentacion/master/Docs/images/logolab.png" height= "80" title="LabCDMX"></td>
+ <td><img src="https://github.com/gtdca98/Documentacion/blob/master/Docs/images/logolab.png" height= "80" title="LabCDMX"></td>
 <td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
-<td><img src="https://github.com/gtdca98/Documentacion/master/Docs/images/LogoCAD.png" height= "70" title="Logo CAD">
+<td><img src="https://github.com/gtdca98/Documentacion/blob/master/Docs/images/LogoCAD.png" height= "70" title="Logo CAD">
  <p>Centro de Análisis de Datos</p></td>
 <td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
- <td><img src="https://github.com/gtdca98/Documentacion/master/Docs/images/sacmex.png"  height= "80" title="Logo CAD"></td>
+ <td><img src="https://github.com/gtdca98/Documentacion/blob/master/Docs/images/sacmex.png"  height= "80" title="Logo CAD"></td>
 </tr>
 </table>
 
-[![website](https://github.com/CADSalud/RetoAguaV4/blob/gh-pages/Docs/CADgreen.png )](http://www.cadsalud.org/)
+[![website](https://github.com/gtdca98/Documentacion/blob/master/Docs/CADgreen.png )](http://www.cadsalud.org/)
 
 
 ## Reto agua
