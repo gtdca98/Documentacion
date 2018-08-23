@@ -82,7 +82,7 @@ Listado  -arreglo javascript- correspondiente a la información demografica y da
 
 Todo el listado se integra en el sistema dentro de la variable **emision_referencia**.
 
-Puede consultar el [esquema](/Docs/images/DER.png) y el [detalle-guía](/Docs/Gen_DER.md) del procesamiento.
+Puede consultar el [esquema](/Docs/images/DER.png) y el [detalle-guía](/Docs/Gen_ER.md) del procesamiento.
 
 La generación de este archivo se  incluye en el script R **CodigoDatos.R**      
 
