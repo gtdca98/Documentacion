@@ -43,7 +43,7 @@ Toda la información geoespacial se integra en el sistema dentro de la variable 
 
 La generación de este archivo se  incluye en el script R **CodigoDatos.R**
 
-Puede consultar el  [esquema](/Docs/images/DMUNCDMX.png) y el [detalle-guía](/Docs/Gen_MUNCDMX.md) del procesamiento.
+Puede consultar el  [esquema](/Docs/images/DMUNCDMX.png) y el [detalle-guía](/Docs/Gen_munCDMX.md) del procesamiento.
 
 
 #### DataRetoH2Obis.geojson.js
